@@ -47,13 +47,17 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   + **Madde.7.A** <br>
   Link önizlemelerinde gözüken tanıma uyan içerik yaptırım uygulanması için geçerli bir neden kabul edilir.
 + **Madde.8** <br>
-  Yetişkin içerik paylaşımları, sohbeti ve muhabbeti, anlatımı yasaktır. Cinsel hayat ve sağlık konuşmalarının **Aile Yasası Madde 2** ihlal edilmeden yapılması uygundur.
+  Yetişkin içerik paylaşımları, sohbeti ve muhabbeti, anlatımı yasaktır.
+  + **Madde.8.A** <br>
+  Cinsel hayat ve sağlık konuşmalarının **Aile Yasası Madde 2** ihlal edilmeden yapılması uygundur.
 + **Madde.9** <br>
   Rahatsız edici içerik ve link paylaşmak yasaktır.
 + **Madde.10** <br>
   Din, dil, ırk ve cinsiyet ayrımı yapmak yasaktır.
 + **Madde.11** <br>
-  @everyone ve @here taglarını kullanmak yasaktır(moderasyon ekibinden alınmış özel izinler ile yapılmış gönderiler buna dahil değildir).
+  @everyone ve @here taglarını kullanmak yasaktır.
+  + **Madde.11.A** <br>
+  Moderasyon ekibinden alınmış özel izinler ile yapılmış gönderiler bu maddeden muaf tutulurlar.
 + **Madde.12** <br>
   İllegal içerik, paylaşım ve teşvik yasaktır.
 + **Madde.13** <br>
@@ -61,7 +65,9 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 + **Madde.14** <br>
   CoderCat içerisinde siyaset ve siyasi propaganda yapmak yasaktır.
 + **Madde.15** <br>
-  Başkasına ait kişisel bilgiler yayınlamak(kişinin kendisi de buna dahildir ancak bazı durumlarda hariç tutulabilir) yasaktır.
+  Başkasına ait kişisel bilgiler yayınlamak yasaktır.
+  + **Madde.15.A** <br>
+  Kişinin kendisi de buna dahildir ancak bazı durumlarda hariç tutulabilir.
 + **Madde.16** <br>
   Mesaj düzeni anlaşılır olmalı ve büyük harf kullanımına dikkat edilmelidir. Tamamen veya %80 oranında büyük harf kullanımı olan mesajlar ceza sebebi sayılabilme potansiyeline sahiptir.
 + **Madde.17** <br>
