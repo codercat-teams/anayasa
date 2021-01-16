@@ -9,9 +9,9 @@
 <div align="center">
 Copyright @ 2020~ CoderCat Moderasyon Ekibi <br>
 04.10.2020 <br>
-<l><b>Bu anayasayı bütün CoderCat aile üyelerinin okumuş olması önem arz etmektedir. <br>
+<b>Bu anayasayı bütün CoderCat aile üyelerinin okumuş olması önem arz etmektedir. <br>
 Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br>
-<ins>CODERCAT İÇERİSİNDE BULUNMANIZ BU ANAYASAYI OKUMUŞ OLDUĞUNUZ ANLAMINA GELİR</ins></l></b>
+<ins>CODERCAT İÇERİSİNDE BULUNMANIZ BU ANAYASAYI OKUMUŞ OLDUĞUNUZ ANLAMINA GELİR</ins></b>
 </div>
 
 ## AİLE YASASI
