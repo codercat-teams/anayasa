@@ -1,2 +1,0 @@
-# anayasa
-CoderCat Anayasası
