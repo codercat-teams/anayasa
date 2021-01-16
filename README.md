@@ -83,6 +83,24 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 + **Madde.11** <br>
   Moderasyon ekibi dikkate alınacak önerileri yalnızca 👍 ve 👎 tepkilerini dikkate alarak değerlendirmek zorundadır.
 
+## RİCA VE BEYANLAR
++ **Madde.1** <br>
+  Lütfen sormak için sormayın, sadece sorunuzu sorun. Önrneğin "Java'da uzman olan var mı?" diye sormak yerine direkt olarak sorunuzu yazın.
+  Bilgisi olanlar bu soruyu cevaplayacaklardır, bilgisi olmayanlarsa eğer isterlerse bilgisi olmadığını beyan edecek veya bilen birisine yönlendirecektir.
+  Bu tip bir soru sormak, insanların sorunuza cevap verme olasılığını oldukça düşürür. İnsanların yeteneğini sorgulamış oluyorsunuz, birinin Java'da bilgisi olabilir
+  ancak bu soru üstüne evet dedikten sonra bilmediği bir şey sorabileceğiniz için kendisini göstermek istemeyebilir. Bunun yanında bir çok soru aslında programlama
+  dili veya diğer konuların çekirdek odağı ile ilgili değildir. Örneğin Java bilmeyen birisi bile sorunuzu var olan bilgisine dayanarak cevaplayabilir. O yüzden lütfen
+  sadece sorunuzu sorun, sormak için sormayın.
++ **Madde.2** <br>
+  Özellikle sınav dönemlerinde CoderCat'e bir çok öğrenci vize, final, sınav, quiz ve benzeri konularda yardım almak için katılıyor, siz de onlardan biriyseniz
+  lütfen burayı dikkatli okuyun. Bu tanıma giren yeni aile üyeleri genellikle sorularının cevabını aldıktan sonra ayrılmaktadır, bu nedenle aile üyeleri bu tanıma uyan yeni
+  aile üyelerine yardım etme konusunda temkinli yaklaşmaktadırlar ve sorularınıza ilk dönemlerinizde cevap alamama olasılığınız bulunmaktadır lütfen bunu kişisel algılamayın.
++ **Madde.3** <br>
+  Lütfen bir soru sorduğunuzda ve cevap alamadığınızda soru işareti yollamak, "bilen yok galiba" gibi imalı cümleler göndermeyin.
++ **Madde.4** <br>
+  Eğer bir moderasyon ekibine rapor göndermişseniz bunu düzeltmek için bir rapor daha gönderip ekleme veya düzenlemeler yapmayın, moderasyon ekibini bir kanalda etiketleyin
+  veya dm yolu ile bildirin. Bu tip gereksiz raporlar **Aile Yasası Madde 18**'i ihlal etmektedir, bu nedenle göndereceğiniz raporu sakince, acele etmeden yazın ve emin olmadan   göndermeyin.
+
 ## EK AÇIKLAMALAR
 + CoderCat üyeleri bir ailedir.
 + CoderCat üyeleri anayasada değişiklik talep edebilirler.
@@ -106,4 +124,13 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 + Sunucu sahibi moderasyon ekibini üzerinde karar verme ve değişiklik hakkını saklı tutar.
 + Sunucu sahibi Moderasyon.Madde.5 hakkını saklı tutar.
 + CoderCat yasal işlem başlatma, muhbirlik ve dava açma hakkını saklı tutar.
-+ Üyelerin TP'si sürekli boş mesaj atması, flood yapması veya kural ihlalinde ceza olarak sıfırlanabilir.
++ Üyelerin TP'si sürekli boş mesaj atması, flood yapması veya kural ihlalinde yaptırım olarak sıfırlanabilir.
+
+## CODERCAT TARAFINDAN TOPLANAN VERİLER
+> CoderCat aile ortamını iyileştirmek ve devamlılığını sağlamak için verilerinizi kullanmaktadır.
+
+**Bunlar başlıca;**
++ Hesap ID'niz
++ Mesajlarınız veya mesajlarınızın bazı kısımları
++ Gönderdiğiniz raporlar
++ Aldığınız yaptırımlar ve sebepleri
