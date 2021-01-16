@@ -24,12 +24,30 @@
   margin-bottom: 10px;
 }
 
+.sub-article-content {
+  font-size: medium;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
 .made-normal {
   font: bold;
   color: gold;
 }
 
+.made-sub {
+  font-size: large;
+  font: bold;
+  color: gold;
+}
+
 .made-moderation {
+  font: bold;
+  color: orange;
+}
+
+.made-sub-moderation {
+  font-size: large;
   font: bold;
   color: orange;
 }
