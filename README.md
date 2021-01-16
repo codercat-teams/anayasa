@@ -102,29 +102,45 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   veya dm yolu ile bildirin. Bu tip gereksiz raporlar **Aile Yasası Madde 18**'i ihlal etmektedir, bu nedenle göndereceğiniz raporu sakince, acele etmeden yazın ve emin olmadan   göndermeyin.
 
 ## EK AÇIKLAMALAR
-+ CoderCat üyeleri bir ailedir.
-+ CoderCat üyeleri anayasada değişiklik talep edebilirler.
-+ Moderasyon maddeleri sadece moderasyon ekibini ilgilendirmektedir.
++ **Madde.1** <br>
+  CoderCat üyeleri bir ailedir.
++ **Madde.2** <br>
+  CoderCat üyeleri anayasada değişiklik talep edebilirler.
++ **Madde.3** <br>
+  Moderasyon maddeleri sadece moderasyon ekibini ilgilendirmektedir.
   CoderCat moderasyon ekibi bir bütündür ve bir ailedir.
   Herhangi bir hiyerarşik düzen bulunmamaktadır. CoderCat içerisinde
   yer alan rollerin herhangi birisi bir rütbe veya hiyararşi temsil etmemektedir.
-+ Moderasyon ekibi bir suç veya yasağın çiğnenmesi durumunda her türlü müdehale
++ **Madde.4** <br>
+  Moderasyon ekibi bir suç veya yasağın çiğnenmesi durumunda her türlü müdehale
   yetkisine sahiptir ve moderasyon ekibi tarafından yapılacak olan yaptırım eylemlerinin sorumluluğu ihlal sahibine aittir.
-+ Moderasyon ekibinin yaptırım nedenini belirtme ve yapılan yaptırımı seçme hakkı saklıdır.
-+ CoderCat moderasyonunun şikayet edilen veya kural ihlali yapılan kişi hakkında soruşturma yapılması ve yaptırım konusunda
++ **Madde.5** <br>
+  Moderasyon ekibinin yaptırım nedenini belirtme ve yapılan yaptırımı seçme hakkı saklıdır.
++ **Madde.6** <br>
+  CoderCat moderasyonunun şikayet edilen veya kural ihlali yapılan kişi hakkında soruşturma yapılması ve yaptırım konusunda
   karar verilme hakkı saklıdır. Delilleri ile birlikte bildirilen ihlallere
   uygulanacak yaptırım hakkı saklıdır.
-+ CoderCat her bir kişi için ayrı bir sabıka kaydı, kimlik ve
++ **Madde.7** <br>
+  CoderCat her bir kişi için ayrı bir sabıka kaydı, kimlik ve
   bilgi deposu tutma ve bunları yayınlama hakkını saklı tutar.
-+ Rol dağıtımı tamamen moderasyon akibine ait olup ölçme, yerleştirme ve dağıtımının hakkı saklıdır.
-+ Moderasyon ekibinin gizli kanaları açıklama ve oradan içerik paylaşma hakkı saklıdır.
-+ Moderasyon ekibine iletilecek her mesaj ve gönderinin değerlendirilme hakkı saklıdır.
-+ Moderasyon ekibi moderasyon hakkında sorulan soruları yanıtlama hakkını saklı tutar.
-+ Moderasyon ekibi ihlali delilli olmayan rapor ve şikayetlere yaptırım uygulama hakkını saklı tutar.
-+ Sunucu sahibi moderasyon ekibini üzerinde karar verme ve değişiklik hakkını saklı tutar.
-+ Sunucu sahibi Moderasyon.Madde.5 hakkını saklı tutar.
-+ CoderCat yasal işlem başlatma, muhbirlik ve dava açma hakkını saklı tutar.
-+ Üyelerin TP'si sürekli boş mesaj atması, flood yapması veya kural ihlalinde yaptırım olarak sıfırlanabilir.
++ **Madde.8** <br>
+  Rol dağıtımı tamamen moderasyon akibine ait olup ölçme, yerleştirme ve dağıtımının hakkı saklıdır.
++ **Madde.9** <br>
+  Moderasyon ekibinin gizli kanaları açıklama ve oradan içerik paylaşma hakkı saklıdır.
++ **Madde.10** <br>
+  Moderasyon ekibine iletilecek her mesaj ve gönderinin değerlendirilme hakkı saklıdır.
++ **Madde.11** <br>
+  Moderasyon ekibi moderasyon hakkında sorulan soruları yanıtlama hakkını saklı tutar.
++ **Madde.13** <br>
+  Moderasyon ekibi ihlali delilli olmayan rapor ve şikayetlere yaptırım uygulama hakkını saklı tutar.
++ **Madde.14** <br>
+  Sunucu sahibi moderasyon ekibini üzerinde karar verme ve değişiklik hakkını saklı tutar.
++ **Madde.15** <br>
+  Sunucu sahibi Moderasyon.Madde.5 hakkını saklı tutar.
++ **Madde.16** <br>
+  CoderCat yasal işlem başlatma, muhbirlik ve dava açma hakkını saklı tutar.
++ **Madde.17** <br>
+  Üyelerin TP'si sürekli boş mesaj atması, flood yapması veya kural ihlalinde yaptırım olarak sıfırlanabilir.
 
 ## CODERCAT TARAFINDAN TOPLANAN VERİLER
 > CoderCat aile ortamını iyileştirmek ve devamlılığını sağlamak için verilerinizi kullanmaktadır.
