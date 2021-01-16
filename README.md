@@ -29,10 +29,14 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   CoderCat üyelerini kişisel mesajlarla rahatsız etmek yasaktır.
 + **Madde.6** <br>
   Reklam yapmak yasak değildir. CoderCat yardımlaşma ve dayanışmaya açık bir topluluktur. Bu tür içeriğin izinsiz ve sualsiz yapılması, davet bağlantısı atılması yasaktır.
+  + **Madde.6.A** <br>
+  İzin alınan reklam ile yapılan reklam aynı değil ise alınan izin geçersiz sayılır ve yaptırım sebebi sayılır.
 + **Madde.7** <br>
   Kötücül link, dosya ve içerik paylaşımı yasaktır.
+  + **Madde.7.A** <br>
+  Link önizlemelerinde gözüken tanıma uyan içerik yaptırım uygulanması için geçerli bir neden kabul edilir.
 + **Madde.8** <br>
-  Yetişkin içerik paylaşımları, sohbeti ve muhabbeti, anlatımı yasaktır. Cinsel hayat ve sağlık konuşmalarının anayasının 2. maddesi ihlal edilmeden yapılması uygundur.
+  Yetişkin içerik paylaşımları, sohbeti ve muhabbeti, anlatımı yasaktır. Cinsel hayat ve sağlık konuşmalarının **Aile Yasası Madde 2** ihlal edilmeden yapılması uygundur.
 + **Madde.9** <br>
   Rahatsız edici içerik ve link paylaşmak yasaktır.
 + **Madde.10** <br>
