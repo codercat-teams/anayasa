@@ -1,0 +1,40 @@
+.navbar {
+  transition: 400ms;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar text {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  transition: 400ms;
+  cursor: pointer;
+  background-color: dimgray;
+}
+
+.navbar a.active {
+  background-color: dodgerblue;
+  color: white;
+}
