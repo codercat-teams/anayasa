@@ -16,7 +16,18 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 
 ## AİLE YASASI
 + **Madde.1** <br>
-  Türkçe veya kullanılan dil doğru ve düzgün kullanılmalıdır. Soru ekleri gibi önemli ekler ayrı yazılmalıdır, onun dışında bazı yazım yanlışları çok önem arz etmemektedir. Metnin anlaşılır olması kafidir. Kişiselleştirilmiş ve değiştirilmiş kelimeler olabildiğince kullanılmamalıdır. Noktalama işaretlerine özen gösterilmelidir, ancak kullanılmaması herhangi bir suç teşkil etmemektedir. Noktalama işareti kaynaklı herhangi bir belirsizlik, yanlış anlaşılma v.b. bir konudan ve maruz kalınan yaptırımdan gönderi sahibi sorumludur.
+  Türkçe veya kullanılan dil doğru ve düzgün kullanılmalıdır.
+  + **Madde.1.A** <br>
+  Soru ekleri gibi önemli ekler ayrı yazılmalıdır.
+  + **Madde.1.B** <br>
+  Kuralın karşılanır sayılması için metnin anlaşılır olması yeterli olarak kabul edilir.
+  + **Madde.1.C** <br>
+  Kişiselleştirilmiş ve değiştirilmiş kelimeler kullanılmamalıdır.
+  + **Madde.1.D** <br>
+  Noktalama işaretlerine özen gösterilmelidir, ancak kullanılmaması herhangi bir suç teşkil etmemektedir.
+    + **Madde.1.D.A** <br>
+    Noktalama işareti kaynaklı herhangi bir belirsizlik, yanlış anlaşılma ve benzeri bir konudan dolayı maruz kalınan yaptırımdan gönderi sahibi sorumludur ve
+    <ins>hak talep edemez</ins>.
 + **Madde.2** <br>
   Küfür, hakaret, yüksek argo ve tehdit imalı imasız fark etmeksizin kesinlikle yasaktır.
   + **Madde.2.A** <br>
