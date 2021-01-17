@@ -32,6 +32,8 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   Küfür, hakaret, yüksek argo ve tehdit imalı imasız fark etmeksizin kesinlikle yasaktır.
   + **Madde.2.A** <br>
     Küfür anlamı taşımayan ancak küfür yerine kullanıldığı saptanan kelime ve/veya cümleler bu yaptırıma dahil tutulur.
+  + **Madde.2.B** <br>
+    Bazı karakterleri silinerek veya farklı bir karakter ile değiştirilerek yazılan ihlaller yaptırıma dahil tutulur.
 + **Madde.3** <br>
   CoderCat üyesi olan veya olmayan herhangi bir kişiyi küçümsemek, aşağılamak, dalga geçmek, rencide etmek, küçük düşürmek ve benzeri davranışlar yasaktır.
 + **Madde.4** <br>
