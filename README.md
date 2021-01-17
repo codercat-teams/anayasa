@@ -161,9 +161,9 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   CoderCat her bir kişi için ayrı bir sabıka kaydı, kimlik ve
   bilgi deposu tutma ve bunları yayınlama hakkını saklı tutar.
 + **Madde.8** <br>
-  Rol dağıtımı tamamen moderasyon akibine ait olup ölçme, yerleştirme ve dağıtımının hakkı saklıdır.
+  Rol dağıtımı tamamen moderasyon ekibine ait olup ölçme, yerleştirme ve dağıtımının hakkı saklıdır.
 + **Madde.9** <br>
-  Moderasyon ekibinin gizli kanaları açıklama ve oradan içerik paylaşma hakkı saklıdır.
+  Moderasyon ekibinin gizli kanalları açıklama ve oradan içerik paylaşma hakkı saklıdır.
 + **Madde.10** <br>
   Moderasyon ekibine iletilecek her mesaj ve gönderinin değerlendirilme hakkı saklıdır.
 + **Madde.11** <br>
