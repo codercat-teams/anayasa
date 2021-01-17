@@ -35,6 +35,8 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   CoderCat yeni aile üyeleri için hoşgeldin ekranı tanımlamak zorundadır.
 + **Madde.10** <br>
   CoderCat içerisinde bir rapor sistemi bulundurmak zorundadır.
++ **Madde.11** <br>
+  CodetCat içerisinde hedeflenen içerik alanlarının dışında farklı alanlarda da içerik barındırması uygun kabul edilir.
 
 ## AİLE YASASI
 + **Madde.1** <br>
@@ -198,6 +200,18 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 + **Madde.4** <br>
   Eğer bir moderasyon ekibine rapor göndermişseniz bunu düzeltmek için bir rapor daha gönderip ekleme veya düzenlemeler yapmayın, moderasyon ekibini bir kanalda etiketleyin
   veya dm yolu ile bildirin. Bu tip gereksiz raporlar **Aile Yasası Madde 18**'i ihlal etmektedir, bu nedenle göndereceğiniz raporu sakince, acele etmeden yazın ve emin olmadan   göndermeyin.
+  
+## İÇERİK
+> CoderCat belli bir amaca yönelik bir topluluktur.
+
+**İçerik Hedeflemesi;**
++ Teknoloji
++ Bilim
++ Araştırma
++ Eğitim
++ Yardımlaşma
++ Tartışma
++ İnovasyon
   
 ## YAPTIRIM FORMÜLÜ
 > CoderCat moderasyon ekibi bir ihlal karşısında yaptırım formülü kullanmaktadır.
