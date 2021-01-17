@@ -138,6 +138,8 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   Moderasyon ekibi geçersiz, dikkate alınmayacak olan içeriği ❌ ile ilgilenilmiş, onaylanmış ve işleme alınmış içeriği ✅ ile, anlaşılmaz içeriği ise ❓ ile işaretlemelidir.
 + **Madde.11** <br>
   Moderasyon ekibi dikkate alınacak önerileri yalnızca 👍 ve 👎 tepkilerini göze alarak değerlendirmek zorundadır.
+  + **Madde.11.A** <br>
+  Moderasyon ekibi oylamaları yalnızca karar vermeye yardımcı olması için dikkate aldığından kabul edilen oylamaları gerçekleştirmek zorunda değildir.
 + **Madde.12** <br>
   Moderasyon ekibine dahil olan kimse owner ile aynı yetkilere sahip olmak zorundadır.
 
