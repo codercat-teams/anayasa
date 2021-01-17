@@ -184,21 +184,27 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
     <td width="5" align="center"><b>x</b></td>
     <td>Daha önce yaptığı ihlallerin boyutu.</td>
   </tr>
+  <tr>
     <td align="center"><b>y</b></td>
     <td>Daha önce bu ihlali kaç kere tekrarladığı.</td>
   </tr>
+  <tr>
     <td align="center"><b>z</b></td>
     <td>Daha önce aldığı yaptırımların sayısı.</td>
   </tr>
+  <tr>
     <td align="center"><b>v</b></td>
     <td>Daha önce aldığı yaptırımların büyüklüğü.</td>
   </tr>
+  <tr>
     <td align="center"><b>n</b></td>
     <td>Yaptığı ihlalin boyutu.</td>
   </tr>
+  <tr>
     <td align="center"><b>t</b></td>
     <td>Daha önce yaptıklarının aile psikolojisi ve düzenine olan etkisi.</td>
   </tr>
+  <tr>
     <td align="center"><b>r</b></td>
     <td>İhlali değerlendiren moderasyon üyesinin/üyelerinin yapmaya karar vereceği yaptırım.</td>
   </tr>
