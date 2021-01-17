@@ -211,7 +211,7 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 </table>
 
 ```
-f(r²) = (((x - v) + n) * (y - z)) + t
+f(r) = (((x - vⁿ) + n)(y - z)) + (t³ ÷ n)
 ```
 
 ## CODERCAT TARAFINDAN TOPLANAN VERİLER
