@@ -185,7 +185,7 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 + **Madde.19** <br>
   Herhangi bir hiyerarşik düzen bulunmamaktadır.
   + **Madde.19.A** <br>
-  CoderCat içerisinde yer alan rollerin herhangi birisi, bir rütbe veya hiyararşi temsil etmez.
+  CoderCat içerisinde yer alan rollerin herhangi birisi, bir rütbe veya hiyerarşi temsil etmez.
 
 ## RİCA VE BEYANLAR
 + **Madde.1** <br>
