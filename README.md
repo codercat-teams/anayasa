@@ -202,7 +202,7 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   veya dm yolu ile bildirin. Bu tip gereksiz raporlar **Aile Yasası Madde 18**'i ihlal etmektedir, bu nedenle göndereceğiniz raporu sakince, acele etmeden yazın ve emin olmadan   göndermeyin.
   
 ## İÇERİK
-> CoderCat belli bir amaca yönelik bir topluluktur.
+> CoderCat belli amaçlara yönelik bir topluluktur.
 
 **İçerik Hedeflemesi;**
 + Teknoloji
