@@ -172,6 +172,41 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 + **Madde.4** <br>
   Eğer bir moderasyon ekibine rapor göndermişseniz bunu düzeltmek için bir rapor daha gönderip ekleme veya düzenlemeler yapmayın, moderasyon ekibini bir kanalda etiketleyin
   veya dm yolu ile bildirin. Bu tip gereksiz raporlar **Aile Yasası Madde 18**'i ihlal etmektedir, bu nedenle göndereceğiniz raporu sakince, acele etmeden yazın ve emin olmadan   göndermeyin.
+  
+## YAPTIRIM FORMÜLÜ
+> CoderCat moderasyon ekibi bir ihlal karşısında yaptırım formülü kullanmaktadır.
+
+<table>
+  <tr>
+    <td colspan="2" align="center"><b>Formül Değişkenleri</b></td>
+  </tr>
+  <tr>
+    <td width="5" align="center"><b>x</b></td>
+    <td>Daha önce yaptığı ihlallerin boyutu.</td>
+  </tr>
+    <td align="center"><b>y</b></td>
+    <td>Daha önce bu ihlali kaç kere tekrarladığı.</td>
+  </tr>
+    <td align="center"><b>z</b></td>
+    <td>Daha önce aldığı yaptırımların sayısı.</td>
+  </tr>
+    <td align="center"><b>v</b></td>
+    <td>Daha önce aldığı yaptırımların büyüklüğü.</td>
+  </tr>
+    <td align="center"><b>n</b></td>
+    <td>Yaptığı ihlalin boyutu.</td>
+  </tr>
+    <td align="center"><b>t</b></td>
+    <td>Daha önce yaptıklarının aile psikolojisi ve düzenine olan etkisi.</td>
+  </tr>
+    <td align="center"><b>r</b></td>
+    <td>İhlali değerlendiren moderasyon üyesinin/üyelerinin yapmaya karar vereceği yaptırım.</td>
+  </tr>
+</table>
+
+```
+f(r²) = (((x - v) + n) * (y - z)) + t
+```
 
 ## CODERCAT TARAFINDAN TOPLANAN VERİLER
 > CoderCat aile ortamını iyileştirmek ve devamlılığını sağlamak için verilerinizi kullanmaktadır.
