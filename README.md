@@ -64,6 +64,8 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   Spam ve aynı mesajları tüm kanallara atmak yasaktır. Flood yapmak ise yüksek miktarda ve rahatsız edici seviyede olduğunda ceza sebebidir.
 + **Madde.5** <br>
   CoderCat üyelerini kişisel mesajlarla rahatsız etmek yasaktır.
+  + **Madde.5.A** <br>
+  Bu madde rahatsız edilen kişinin şikayeti üzerine yürürlüğe girmektedir.
 + **Madde.6** <br>
   Reklam yapmak yasak değildir. CoderCat yardımlaşma ve dayanışmaya açık bir topluluktur. Bu tür içeriğin izinsiz ve sualsiz yapılması, davet bağlantısı atılması yasaktır.
   + **Madde.6.A** <br>
@@ -106,6 +108,8 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   Hayvana şiddet ve şiddete teşvik yasaktır.
 + **Madde.20** <br>
   Sunucu içerisindeki kanalları amacı dışında kullanmak yaptırım sebebidir.
++ **Madde.21** <br>
+  CoderCat içerisinde mevcut kullanıcı adı ile kural ihlal eden kişilerin kullanıcı adı moderasyon tarafından değiştirilir.
 
 ## MODERASYON YASASI
 > Bu yasaya yalnızca moderasyon ekibi uymak zorundadır.
