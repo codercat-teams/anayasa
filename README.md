@@ -69,7 +69,9 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   + **Madde.15.A** <br>
   Kişinin kendisi de buna dahildir ancak bazı durumlarda hariç tutulabilir.
 + **Madde.16** <br>
-  Mesaj düzeni anlaşılır olmalı ve büyük harf kullanımına dikkat edilmelidir. Tamamen veya %80 oranında büyük harf kullanımı olan mesajlar ceza sebebi sayılabilme potansiyeline sahiptir.
+  Mesaj düzeni anlaşılır olmalı ve büyük harf kullanımına dikkat edilmelidir.
+  + **Madde.16.A** <br>
+  Büyük harf kullanımının ihlal sayılması için gerekli oran %80 olarak kabul edilir.
 + **Madde.17** <br>
   Saldırgan davranış, tahrik, kışkırtma ve isyana teşvik yasaktır.
 + **Madde.18** <br>
@@ -83,16 +85,17 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 + **Madde.1** <br>
   Moderasyon ekibi tüm kararları ortak almak zorundadır.
 + **Madde.2** <br>
-  Moderasyon ekibinden herhangi bir kişi diğer bir moderasyon üyesine doğrudan yaptırım uygulama hakkında sahip değildir.
-  Yapılan moderasyon toplantısında yaptırım ortak karar ile belirlenmelidir(delilli ve affedilmez ihlaller hariç).
+  Moderasyon ekibinden herhangi bir kişi diğer bir moderasyon üyesine doğrudan yaptırım uygulama hakkında sahip değildir. Yapılan moderasyon toplantısında yaptırım ortak karar     ile belirlenmelidir.
+  + **Madde.2.A** <br>
+  Delilli ve affedilmez ihlaller bu maddeden muaf kabul edilir.
 + **Madde.3** <br>
   Moderasyon ekibi rapor kanalına gelen iletileri okumak zorundadır.
 + **Madde.4** <br>
-  Moderasyon üyelerinin kışkırtma gibi basit numaralara aldanıp herhangi bir kural ihlalinde bulunmaları yasaktır ve ağır yaptırımlar ile sonuçlanabilir potansiyel bir ihlaldir.
+  Moderasyon üyelerinin kışkırtma gibi basit numaralara aldanıp herhangi bir kural ihlalinde bulunmaları yasaktır ve ağır yaptırımlar ile sonuçlanabilecek potansiyel bir           ihlaldir.
 + **Madde.5** <br>
   Moderasyon ekibi yaptıkları her bir yaptırım, düzenleme ve değişikliği(ortak karar alınmadan) privite kanala yazmak zorundadır.
 + **Madde.6** <br>
-  Moderasyon ekibi üyelerinin yakın, tanıdık v.b. sebebi ile avans verme ve yaptırım uygulamaması ispat edilme sonucu ağır yaptırımlara tabiidir.
+  Moderasyon ekibi üyelerinin yakın, tanıdık ve benzeri sebebi ile avans verme ve yaptırım uygulamaması ispat edilme sonucu ağır yaptırımlara tabiidir.
 + **Madde.7** <br>
   Moderasyon ekibi duyuru, bilgilendirme ve rehberlik metinleri yazarken resmi dil kullanmaya özen göstermelidir.
 + **Madde.8** <br>
@@ -102,25 +105,9 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 + **Madde.10** <br>
   Moderasyon ekibi geçersiz, dikkate alınmayacak olan içeriği ❌ ile ilgilenilmiş, onaylanmış ve işleme alınmış içeriği ✅ ile, anlaşılmaz içeriği ise ❓ ile işaretlemelidir.
 + **Madde.11** <br>
-  Moderasyon ekibi dikkate alınacak önerileri yalnızca 👍 ve 👎 tepkilerini dikkate alarak değerlendirmek zorundadır.
-
-## RİCA VE BEYANLAR
-+ **Madde.1** <br>
-  Lütfen sormak için sormayın, sadece sorunuzu sorun. Önrneğin "Java'da uzman olan var mı?" diye sormak yerine direkt olarak sorunuzu yazın.
-  Bilgisi olanlar bu soruyu cevaplayacaklardır, bilgisi olmayanlarsa eğer isterlerse bilgisi olmadığını beyan edecek veya bilen birisine yönlendirecektir.
-  Bu tip bir soru sormak, insanların sorunuza cevap verme olasılığını oldukça düşürür. İnsanların yeteneğini sorgulamış oluyorsunuz, birinin Java'da bilgisi olabilir
-  ancak bu soru üstüne evet dedikten sonra bilmediği bir şey sorabileceğiniz için kendisini göstermek istemeyebilir. Bunun yanında bir çok soru aslında programlama
-  dili veya diğer konuların çekirdek odağı ile ilgili değildir. Örneğin Java bilmeyen birisi bile sorunuzu var olan bilgisine dayanarak cevaplayabilir. O yüzden lütfen
-  sadece sorunuzu sorun, sormak için sormayın.
-+ **Madde.2** <br>
-  Özellikle sınav dönemlerinde CoderCat'e bir çok öğrenci vize, final, sınav, quiz ve benzeri konularda yardım almak için katılıyor, siz de onlardan biriyseniz
-  lütfen burayı dikkatli okuyun. Bu tanıma giren yeni aile üyeleri genellikle sorularının cevabını aldıktan sonra ayrılmaktadır, bu nedenle aile üyeleri bu tanıma uyan yeni
-  aile üyelerine yardım etme konusunda temkinli yaklaşmaktadırlar ve sorularınıza ilk dönemlerinizde cevap alamama olasılığınız bulunmaktadır lütfen bunu kişisel algılamayın.
-+ **Madde.3** <br>
-  Lütfen bir soru sorduğunuzda ve cevap alamadığınızda soru işareti yollamak, "bilen yok galiba" gibi imalı cümleler göndermeyin.
-+ **Madde.4** <br>
-  Eğer bir moderasyon ekibine rapor göndermişseniz bunu düzeltmek için bir rapor daha gönderip ekleme veya düzenlemeler yapmayın, moderasyon ekibini bir kanalda etiketleyin
-  veya dm yolu ile bildirin. Bu tip gereksiz raporlar **Aile Yasası Madde 18**'i ihlal etmektedir, bu nedenle göndereceğiniz raporu sakince, acele etmeden yazın ve emin olmadan   göndermeyin.
+  Moderasyon ekibi dikkate alınacak önerileri yalnızca 👍 ve 👎 tepkilerini göze alarak değerlendirmek zorundadır.
++ **Madde.12** <br>
+  Moderasyon ekibine dahil olan kimse owner ile aynı yetkilere sahip olmak zorundadır.
 
 ## EK AÇIKLAMALAR
 + **Madde.1** <br>
@@ -162,6 +149,28 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   CoderCat yasal işlem başlatma, muhbirlik ve dava açma hakkını saklı tutar.
 + **Madde.17** <br>
   Üyelerin TP'si sürekli boş mesaj atması, flood yapması veya kural ihlalinde yaptırım olarak sıfırlanabilir.
++ **Madde.18** <br>
+  CoderCat hızlı işlemler ve bir takım görevler için bot kullanabilir.
+  + **Madde.18.A** <br>
+  Bot kaynaklı bir yaptırıma veya başka bir duruma maruz kalan aile üyeleri hata nedeniyle gerçekleştiğini kanıtlamaları halinde itiraz etme hakkına sahiptir.
+
+## RİCA VE BEYANLAR
++ **Madde.1** <br>
+  Lütfen sormak için sormayın, sadece sorunuzu sorun. Önrneğin "Java'da uzman olan var mı?" diye sormak yerine direkt olarak sorunuzu yazın.
+  Bilgisi olanlar bu soruyu cevaplayacaklardır, bilgisi olmayanlarsa eğer isterlerse bilgisi olmadığını beyan edecek veya bilen birisine yönlendirecektir.
+  Bu tip bir soru sormak, insanların sorunuza cevap verme olasılığını oldukça düşürür. İnsanların yeteneğini sorgulamış oluyorsunuz, birinin Java'da bilgisi olabilir
+  ancak bu soru üstüne evet dedikten sonra bilmediği bir şey sorabileceğiniz için kendisini göstermek istemeyebilir. Bunun yanında bir çok soru aslında programlama
+  dili veya diğer konuların çekirdek odağı ile ilgili değildir. Örneğin Java bilmeyen birisi bile sorunuzu var olan bilgisine dayanarak cevaplayabilir. O yüzden lütfen
+  sadece sorunuzu sorun, sormak için sormayın.
++ **Madde.2** <br>
+  Özellikle sınav dönemlerinde CoderCat'e bir çok öğrenci vize, final, sınav, quiz ve benzeri konularda yardım almak için katılıyor, siz de onlardan biriyseniz
+  lütfen burayı dikkatli okuyun. Bu tanıma giren yeni aile üyeleri genellikle sorularının cevabını aldıktan sonra ayrılmaktadır, bu nedenle aile üyeleri bu tanıma uyan yeni
+  aile üyelerine yardım etme konusunda temkinli yaklaşmaktadırlar ve sorularınıza ilk dönemlerinizde cevap alamama olasılığınız bulunmaktadır lütfen bunu kişisel algılamayın.
++ **Madde.3** <br>
+  Lütfen bir soru sorduğunuzda ve cevap alamadığınızda soru işareti yollamak, "bilen yok galiba" gibi imalı cümleler göndermeyin.
++ **Madde.4** <br>
+  Eğer bir moderasyon ekibine rapor göndermişseniz bunu düzeltmek için bir rapor daha gönderip ekleme veya düzenlemeler yapmayın, moderasyon ekibini bir kanalda etiketleyin
+  veya dm yolu ile bildirin. Bu tip gereksiz raporlar **Aile Yasası Madde 18**'i ihlal etmektedir, bu nedenle göndereceğiniz raporu sakince, acele etmeden yazın ve emin olmadan   göndermeyin.
 
 ## CODERCAT TARAFINDAN TOPLANAN VERİLER
 > CoderCat aile ortamını iyileştirmek ve devamlılığını sağlamak için verilerinizi kullanmaktadır.
