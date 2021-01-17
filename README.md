@@ -115,10 +115,7 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 + **Madde.2** <br>
   CoderCat üyeleri anayasada değişiklik talep edebilirler.
 + **Madde.3** <br>
-  Moderasyon maddeleri sadece moderasyon ekibini ilgilendirmektedir.
   CoderCat moderasyon ekibi bir bütündür ve bir ailedir.
-  Herhangi bir hiyerarşik düzen bulunmamaktadır. CoderCat içerisinde
-  yer alan rollerin herhangi birisi bir rütbe veya hiyararşi temsil etmemektedir.
 + **Madde.4** <br>
   Moderasyon ekibi bir suç veya yasağın çiğnenmesi durumunda her türlü müdehale
   yetkisine sahiptir ve moderasyon ekibi tarafından yapılacak olan yaptırım eylemlerinin sorumluluğu ihlal sahibine aittir.
@@ -153,6 +150,10 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   CoderCat hızlı işlemler ve bir takım görevler için bot kullanabilir.
   + **Madde.18.A** <br>
   Bot kaynaklı bir yaptırıma veya başka bir duruma maruz kalan aile üyeleri hata nedeniyle gerçekleştiğini kanıtlamaları halinde itiraz etme hakkına sahiptir.
++ **Madde.19** <br>
+  Herhangi bir hiyerarşik düzen bulunmamaktadır.
+  + **Madde.19.A** <br>
+  CoderCat içerisinde yer alan rollerin herhangi birisi, bir rütbe veya hiyararşi temsil etmez.
 
 ## RİCA VE BEYANLAR
 + **Madde.1** <br>
