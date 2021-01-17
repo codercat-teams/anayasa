@@ -106,6 +106,8 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   Sunucu içerisindeki kanalları amacı dışında kullanmak yaptırım sebebidir.
 
 ## MODERASYON YASASI
+> Bu yasaya yalnızca moderasyon ekibi uymak zorundadır.
+
 + **Madde.1** <br>
   Moderasyon ekibi tüm kararları ortak almak zorundadır.
 + **Madde.2** <br>
