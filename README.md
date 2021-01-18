@@ -52,6 +52,8 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
     + **Madde.1.D.A** <br>
     Noktalama işareti kaynaklı herhangi bir belirsizlik, yanlış anlaşılma ve benzeri bir konudan dolayı maruz kalınan yaptırımdan gönderi sahibi sorumludur ve
     <ins>hak talep edemez</ins>.
+  + **Madde.1.E** <br>
+  İki dilin aynı cümle içerisinde harmanlanmış/karıştırılmış şekilde kullanılması bu maddenin ihlali kabul edilir.
 + **Madde.2** <br>
   Küfür, hakaret, yüksek argo ve tehdit imalı imasız fark etmeksizin kesinlikle yasaktır.
   + **Madde.2.A** <br>
