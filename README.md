@@ -18,24 +18,22 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 + **Madde.1** <br>
   CoderCat'in adı <ins>değiştirilemez</ins>.
 + **Madde.2** <br>
-  CoderCat topluluk oylaması ile <ins>silinebilir</ins>.
-+ **Madde.3** <br>
   CoderCat içerisinde topluluk desteği için öneri ve sss kanalları bulunmak zorundadır.
-+ **Madde.4** <br>
++ **Madde.3** <br>
   CoderCat'in resmi dili Türkçe'dir ve <ins>değiştirilemez</ins>.
-+ **Madde.5** <br>
++ **Madde.4** <br>
   CoderCat içerisinde AFK kanalı bulunmak zorundadır.
-+ **Madde.6** <br>
++ **Madde.5** <br>
   CoderCat AFK zaman aşımı 15 dakikanın üstüne çıkarılamaz.
-+ **Madde.7** <br>
++ **Madde.6** <br>
   CoderCat sunucu bölgesi Avrupa'dır.
-+ **Madde.8** <br>
++ **Madde.7** <br>
   CoderCat Discord Topluluk Sunucusu olarak ayarlanmak zorundadır.
-+ **Madde.9** <br>
++ **Madde.8** <br>
   CoderCat yeni aile üyeleri için hoşgeldin ekranı tanımlamak zorundadır.
-+ **Madde.10** <br>
++ **Madde.9** <br>
   CoderCat içerisinde bir rapor sistemi bulundurmak zorundadır.
-+ **Madde.11** <br>
++ **Madde.10** <br>
   CodetCat içerisinde hedeflenen içerik alanlarının dışında farklı alanlarda da içerik barındırması uygun kabul edilir.
 
 ## AİLE YASASI
