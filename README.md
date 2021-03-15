@@ -259,7 +259,7 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 </table>
 
 ```
-f(r) = (((x - v) + n)(y - zⁿ)) + (t³ ÷ n)
+f(r) = (t³ ÷ ((x - v) + n)(yn - z)) + n
 ```
 
 ## CODERCAT TARAFINDAN TOPLANAN VERİLER
