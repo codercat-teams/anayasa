@@ -1,11 +1,28 @@
 # CODERCAT ANAYASASI
 
-## HAKKINDA
+## HIZLI GEZİNTİ
++ [Hakkında](#hakkinda)
++ [Giriş](#giris)
++ [Genel Yasa](#genel-yasa)
++ [Aile Yasası](#aile-yasasi)
++ [Moderasyon Yasası](#moderasyon-yasasi)
++ [Ek Açıklamalar](#ek-aciklamalar)
++ [Rica ve Beyanlar](#rica-ve-beyanlar)
++ [İçerik Planı](#icerik-plani)
++ [Yaptırım Çeşitleri](#yaptirim-cesitleri)
++ [Yaptırım Formülü](#yaptirim-formulu)
+  + [Formül](#formul)
+  + [Formülün Örnek Kullanımları](#formulun-ornek-kullanimlari)
++ [CoderCat Tarafından Toplanan Veriler](#codercat-tarafindan-toplanan-veriler)
+
+<h2 id="hakkinda">HAKKINDA</h2>
+
 **CoderCat** <br>
 **Copyright 2020~** <br>
 **Author: mertcandav** <br>
 
-## GİRİŞ
+<h2 id="giris">GİRİŞ</h2>
+
 <div align="center">
 Copyright @ 2020~ CoderCat Moderasyon Ekibi <br>
 04.10.2020 <br>
@@ -14,7 +31,8 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 <ins>CODERCAT İÇERİSİNDE BULUNMANIZ BU ANAYASAYI OKUMUŞ OLDUĞUNUZ ANLAMINA GELİR!</ins></b>
 </div>
 
-## GENEL YASA
+<h2 id="genel-yasa">GENEL YASA</h2>
+
 + **Madde.1** <br>
   CoderCat'in adı <ins>değiştirilemez</ins>.
 + **Madde.2** <br>
@@ -35,8 +53,11 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   CoderCat içerisinde bir rapor sistemi bulundurmak zorundadır.
 + **Madde.10** <br>
   CodetCat içerisinde hedeflenen içerik alanlarının dışında farklı alanlarda da içerik barındırması uygun kabul edilir.
++ **Madde.11** <br>
+  Topluluk kararı ile bir aile üyesi kick, mute ve diğer yaptırımlara maruz kalabilir(Moderasyon denetimiyle).
 
-## AİLE YASASI
+<h2 id="aile-yasasi">AİLE YASASI</h2>
+
 + **Madde.1** <br>
   Türkçe veya kullanılan dil doğru ve düzgün kullanılmalıdır.
   + **Madde.1.A** <br>
@@ -110,8 +131,13 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   Sunucu içerisindeki kanalları amacı dışında kullanmak yaptırım sebebidir.
 + **Madde.21** <br>
   CoderCat içerisinde mevcut kullanıcı adı ile kural ihlal eden kişilerin kullanıcı adı moderasyon tarafından değiştirilir.
++ **Madde.22** <br>
+  Aile üyelerinden birisi durum mesajı yolu ile kural ihlal ediyorsa buna değiştirme/silme gibi bir eylem gerçekleştirilemediğinden herhangi bir yaptırım uygulanmaz.
+  + **Madde.22.A** <br>
+    Eğer farklı bir aile üyesinin şahsı ya da doğrudan CoderCat ile ilgili ise yaptırım sebebi sayılır.
 
-## MODERASYON YASASI
+<h2 id="moderasyon-yasasi">MODERASYON YASASI</h2>
+
 > Bu yasaya yalnızca moderasyon ekibi uymak zorundadır.
 
 + **Madde.1** <br>
@@ -145,7 +171,8 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 + **Madde.12** <br>
   Moderasyon ekibine dahil olan kimse owner ile aynı yetkilere sahip olmak zorundadır.
 
-## EK AÇIKLAMALAR
+<h2 id="ek-aciklamalar">EK AÇIKLAMALAR</h2>
+
 + **Madde.1** <br>
   CoderCat üyeleri bir ailedir.
 + **Madde.2** <br>
@@ -191,7 +218,8 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   + **Madde.19.A** <br>
   CoderCat içerisinde yer alan rollerin herhangi birisi, bir rütbe veya hiyerarşi temsil etmez.
 
-## RİCA VE BEYANLAR
+<h2 id="rica-ve-beyanlar">RİCA VE BEYANLAR</h2>
+
 + **Madde.1** <br>
   Lütfen sormak için sormayın, sadece sorunuzu sorun. Önrneğin "Java'da uzman olan var mı?" diye sormak yerine direkt olarak sorunuzu yazın.
   Bilgisi olanlar bu soruyu cevaplayacaklardır, bilgisi olmayanlarsa eğer isterlerse bilgisi olmadığını beyan edecek veya bilen birisine yönlendirecektir.
@@ -209,7 +237,8 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   Eğer bir moderasyon ekibine rapor göndermişseniz bunu düzeltmek için bir rapor daha gönderip ekleme veya düzenlemeler yapmayın, moderasyon ekibini bir kanalda etiketleyin
   veya dm yolu ile bildirin. Bu tip gereksiz raporlar **Aile Yasası Madde 18**'i ihlal etmektedir, bu nedenle göndereceğiniz raporu sakince, acele etmeden yazın ve emin olmadan   göndermeyin.
   
-## İÇERİK
+<h2 id="icerik-plani">İÇERİK PLANI</h2>
+
 > CoderCat belli amaçlara yönelik bir topluluktur.
 
 **İçerik Hedeflemesi;**
@@ -220,9 +249,25 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 + Yardımlaşma
 + Tartışma
 + İnovasyon
+
+<h2 id="yaptirim-cesitleri">YAPTIRIM ÇEŞİTLERİ</h2>
+
++ **Channel Ban** <br>
+  Tüm kanallara olan erişiminiz kesilir, hiçbir kanal görüntüleyemezsiniz!
++ **Mute** <br>
+  Kanalları görüntüleyebilir ancak hiçbir şey yazamaz ve konuşamazsınız!
++ **Kick** <br>
+  Sunucudan atılırsınız ancak davet bağlantısı ile tekrar katılabilirsiniz.
++ **Ban** <br>
+  Sunucudan yasaklanırsınız ve yasağınız kaldırılmadığı müddetçe tekrar sunucuya katılamazsınız!
++ **TP Reset** <br>
+  Tüm leveliniz sıfırlanır.
   
-## YAPTIRIM FORMÜLÜ
+<h2 id="yaptirim-formulu">YAPTIRIM FORMÜLÜ</h2>
+
 > CoderCat moderasyon ekibi bir ihlal karşısında yaptırım formülü kullanmaktadır.
+
+<h3 id="formul">Formül</h3>
 
 <table>
   <tr>
@@ -262,7 +307,30 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 f(r) = (t³ ÷ ((x - v) + n)(yn - z)) + n
 ```
 
-## CODERCAT TARAFINDAN TOPLANAN VERİLER
+<h3 id="formulun-ornek-kullanimlari">Formülün Örnek Kullanımları</h3>
+
+```
+# Bir kişi sunucuda paylaşmaması gereken bir şey paylaşmıştır ve
+# bu sunucu düzenini çok bozmamış, aile üyelerini rahatsız etmemiştir.
+
+Kişi yalnızca bilgilendirilir, uyarı verilir. Tekrar yapmaması rica edilir ve malum gönderi silinir.
+```
+```
+# Bir kişi sunucuda paylaşmaması gereken bir şey paylaşmıştır ve
+# bu sunucu düzenini çok bozmamış, aile üyelerini rahatsız etmemiştir.
+# Ancak bunu daha önce çok tekrar etmiştir.
+
+Kişiye uyarı verilir, malum gönderi silinir ve mute verilir.
+```
+```
+# Bir kişi sunucuda ihlal gerçekleştirmiştir ve daha önce
+# ihlal gerçekleştirmesine rağmen yaptırım almamıştır.
+
+Direkt olarak bir yaptırım uygulanır.
+```
+
+<h2 id="codercat-tarafindan-toplanan-veriler">CODERCAT TARAFINDAN TOPLANAN VERİLER</h2>
+
 > CoderCat aile ortamını iyileştirmek ve devamlılığını sağlamak için verilerinizi kullanmaktadır.
 
 **Bunlar başlıca;**
