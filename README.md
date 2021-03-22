@@ -55,6 +55,8 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   CodetCat içerisinde hedeflenen içerik alanlarının dışında farklı alanlarda da içerik barındırması uygun kabul edilir.
 + **Madde.11** <br>
   Topluluk kararı ile bir aile üyesi kick, mute ve diğer yaptırımlara maruz kalabilir(Moderasyon denetimiyle).
++ **Madde.12** <br>
+  Topululuk öneri kanalından moderatör alımı yapılması dahil, her konuda önerilerde bulunabilir.
 
 <h2 id="aile-yasasi">AİLE YASASI</h2>
 
