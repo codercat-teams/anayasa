@@ -36,7 +36,7 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 + **Madde.1** <br>
   CoderCat'in adı <ins>değiştirilemez</ins>.
 + **Madde.2** <br>
-  CoderCat içerisinde topluluk desteği için öneri ve sss kanalları bulunmak zorundadır.
+  CoderCat içerisinde topluluk desteği için öneri ve yardım-ticket kanalları bulunmak zorundadır.
 + **Madde.3** <br>
   CoderCat'in resmi dili Türkçe'dir ve <ins>değiştirilemez</ins>.
 + **Madde.4** <br>
