@@ -340,3 +340,4 @@ Direkt olarak bir yaptırım uygulanır.
 + Mesajlarınız veya mesajlarınızın bazı kısımları
 + Gönderdiğiniz raporlar
 + Aldığınız yaptırımlar ve sebepleri
++ Açtığınız yardım taleplerinin kaydı
