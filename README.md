@@ -97,6 +97,8 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   Kötücül link, dosya ve içerik paylaşımı yasaktır.
   + **Madde.7.A** <br>
   Link önizlemelerinde gözüken tanıma uyan içerik yaptırım uygulanması için geçerli bir neden kabul edilir.
+  + **Madde.7.B** <br>
+  Aldatmaca olsun olmasın çeşitli finansal ya da ödüllü kampanyaların anlatımı ve paylaşımı bu maddeye tabii tutulabilir.
 + **Madde.8** <br>
   Yetişkin içerik paylaşımları, sohbeti ve muhabbeti, anlatımı yasaktır.
   + **Madde.8.A** <br>
