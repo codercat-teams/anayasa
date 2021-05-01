@@ -116,7 +116,7 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 + **Madde.12** <br>
   İllegal içerik, paylaşım ve teşvik yasaktır.
 + **Madde.13** <br>
-  Farklı sunuculardaki sunucuya özel tartışma, sadece sunucuyu ve üyelerini ilgilendiren konulardan bahsetmek ve içerik paylaşmak yasaktır.
+  Farklı sunuculardaki sunucuya özel tartışma, sadece sunucuyu ve üyelerini ilgilendiren ya da dm yolu ile yapılan konuşmalardaki konulardan bahsetmek ve içerik paylaşmak yasaktır.
 + **Madde.14** <br>
   CoderCat içerisinde siyaset ve siyasi propaganda yapmak yasaktır.
 + **Madde.15** <br>
