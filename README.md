@@ -1,6 +1,6 @@
 # CODERCAT ANAYASASI
 
-## HIZLI GEZİNTİ
+## NAVİGASYON
 + [Hakkında](#hakkinda)
 + [Giriş](#giris)
 + [Genel Yasa](#genel-yasa)
