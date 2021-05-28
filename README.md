@@ -345,3 +345,4 @@ Direkt olarak bir yaptırım uygulanır.
 + Gönderdiğiniz raporlar
 + Aldığınız yaptırımlar ve sebepleri
 + Açtığınız yardım taleplerinin kaydı
++ CoderCat Assistant üzerinde kullandığınız geçerli komutlar
