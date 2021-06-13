@@ -58,6 +58,8 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   Topluluk kararı ile bir aile üyesi kick, mute ve diğer yaptırımlara maruz kalabilir(Moderasyon denetimiyle).
 + **Madde.13** <br>
   Topululuk öneri kanalından moderatör alımı yapılması dahil, her konuda önerilerde bulunabilir.
++ **Madde.13** <br>
+  Moderasyon ekibine dahil olan herkes sunucu sahibi ile aynı yetkilere sahip olmak zorundadır.
 
 <h2 id="aile-yasasi">AİLE YASASI</h2>
 
@@ -174,8 +176,6 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   + **Madde.11.B** <br>
   Öneri sahibinin ve birden fazla geçerli oy vermiş kişilerin oyları sayılmaz.
 + **Madde.12** <br>
-  Moderasyon ekibine dahil olan kimse owner ile aynı yetkilere sahip olmak zorundadır.
-+ **Madde.13** <br>
   Moderasyon ekibi yaptırım formülünü uygulamaktan kaçınabilir ve iyi niyet göstererek yaptırımı erteleyebilir ya da uygulamamayı seçebilir.
 
 <h2 id="ek-aciklamalar">EK AÇIKLAMALAR</h2>
