@@ -175,6 +175,8 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
   Öneri sahibinin ve birden fazla geçerli oy vermiş kişilerin oyları sayılmaz.
 + **Madde.12** <br>
   Moderasyon ekibine dahil olan kimse owner ile aynı yetkilere sahip olmak zorundadır.
++ **Madde.13** <br>
+  Moderasyon ekibi yaptırım formülünü uygulamaktan kaçınabilir ve iyi niyet göstererek yaptırımı erteleyebilir ya da uygulamamayı seçebilir.
 
 <h2 id="ek-aciklamalar">EK AÇIKLAMALAR</h2>
 
