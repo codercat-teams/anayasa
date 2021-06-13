@@ -1,7 +1,6 @@
 # CODERCAT ANAYASASI
 
-## NAVİGASYON
-+ [Hakkında](#hakkinda)
+## HIZLI GEZİNTİ
 + [Giriş](#giris)
 + [Genel Yasa](#genel-yasa)
 + [Aile Yasası](#aile-yasasi)
@@ -15,20 +14,20 @@
   + [Formülün Örnek Kullanımları](#formulun-ornek-kullanimlari)
 + [CoderCat Tarafından Toplanan Veriler](#codercat-tarafindan-toplanan-veriler)
 
-<h2 id="hakkinda">HAKKINDA</h2>
-
-**CoderCat** <br>
-**Copyright 2020~** <br>
-**Author: mertcandav** <br>
-
 <h2 id="giris">GİRİŞ</h2>
 
 <div align="center">
-Copyright @ 2020~ CoderCat Moderasyon Ekibi <br>
-04.10.2020 <br>
+2020~ CoderCat Moderasyon Ekibi <br>
 <b>Bu anayasayı bütün CoderCat aile üyelerinin okumuş olması önem arz etmektedir. <br>
 Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br>
 <ins>CODERCAT İÇERİSİNDE BULUNMANIZ BU ANAYASAYI OKUMUŞ OLDUĞUNUZ ANLAMINA GELİR!</ins></b>
+  <br>
+  <br>
+  <b><i>
+    Bu anayasa haklarınızın ve güvenliğinizin korunması için yürürlüktedir.
+    <br>
+    Zamanınız yok ise teorik olarak <a href="#aile-yasasi">Aile Yasası</a>'nın okunması yeterlidir.
+  </i></b>
 </div>
 
 <h2 id="genel-yasa">GENEL YASA</h2>
@@ -110,13 +109,13 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 + **Madde.10** <br>
   Din, dil, ırk ve cinsiyet ayrımı yapmak yasaktır.
 + **Madde.11** <br>
-  @everyone ve @here taglarını kullanmak yasaktır.
+  <b>@everyone</b> ve <b>@here</b> taglarını kullanmak yasaktır.
   + **Madde.11.A** <br>
   Moderasyon ekibinden alınmış özel izinler ile yapılmış gönderiler bu maddeden muaf tutulurlar.
 + **Madde.12** <br>
   İllegal içerik, paylaşım ve teşvik yasaktır.
 + **Madde.13** <br>
-  Farklı sunuculardaki sunucuya özel tartışma, sadece sunucuyu ve üyelerini ilgilendiren ya da dm yolu ile yapılan konuşmalardaki konulardan bahsetmek ve içerik paylaşmak yasaktır.
+  Farklı sunuculardaki sunucuya özel tartışma, sadece sunucuyu ve üyelerini ilgilendiren konulardan bahsetmek ve içerik paylaşmak yasaktır.
 + **Madde.14** <br>
   CoderCat içerisinde siyaset ve siyasi propaganda yapmak yasaktır.
 + **Madde.15** <br>
@@ -140,7 +139,7 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 + **Madde.22** <br>
   Aile üyelerinden birisi durum mesajı yolu ile kural ihlal ediyorsa buna değiştirme/silme gibi bir eylem gerçekleştirilemediğinden herhangi bir yaptırım uygulanmaz.
   + **Madde.22.A** <br>
-    Eğer farklı bir aile üyesinin şahsı ya da doğrudan CoderCat ile ilgili ise yaptırım sebebi sayılır.
+  Eğer farklı bir aile üyesinin şahsı ya da doğrudan CoderCat ile ilgili ise yaptırım sebebi sayılır.
 
 <h2 id="moderasyon-yasasi">MODERASYON YASASI</h2>
 
@@ -155,7 +154,7 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 + **Madde.3** <br>
   Moderasyon ekibi rapor kanalına gelen iletileri okumak zorundadır.
 + **Madde.4** <br>
-  Moderasyon üyelerinin kışkırtma gibi basit numaralara aldanıp herhangi bir kural ihlalinde bulunmaları yasaktır ve ağır yaptırımlar ile sonuçlanabilecek potansiyel bir           ihlaldir.
+  Moderasyon üyelerinin kışkırtma gibi basit numaralara aldanıp herhangi bir kural ihlalinde bulunmaları yasaktır ve ağır yaptırımlar ile sonuçlanabilecek potansiyel bir ihlaldir.
 + **Madde.5** <br>
   Moderasyon ekibi yaptıkları her bir yaptırım, düzenleme ve değişikliği(ortak karar alınmadan) privite kanala yazmak zorundadır.
 + **Madde.6** <br>
@@ -210,7 +209,7 @@ Kuralları ve haklarınızı bilmeniz için lütfen biraz vaktinizi ayırın.<br
 + **Madde.14** <br>
   Sunucu sahibi moderasyon ekibini üzerinde karar verme ve değişiklik hakkını saklı tutar.
 + **Madde.15** <br>
-  Sunucu sahibi Moderasyon.Madde.5 hakkını saklı tutar.
+  Sunucu sahibi <b>Moderasyon.Madde.5</b> hakkını saklı tutar.
 + **Madde.16** <br>
   CoderCat yasal işlem başlatma, muhbirlik ve dava açma hakkını saklı tutar.
 + **Madde.17** <br>
@@ -345,4 +344,3 @@ Direkt olarak bir yaptırım uygulanır.
 + Gönderdiğiniz raporlar
 + Aldığınız yaptırımlar ve sebepleri
 + Açtığınız yardım taleplerinin kaydı
-+ CoderCat Assistant üzerinde kullandığınız geçerli komutlar
